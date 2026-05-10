@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ferari-somoy/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Ferari Somoy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ferari-somoy/) |
+| **Get License** | [Get a Licensing Quote for Ferari Somoy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ferari-somoy/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এই রাতের ছায়ায় তোমারই ডাক শুনি
+> আঁধারের এই বুক চিরে আজ জোনাকিদের গুনি
+> আমার এই অবুঝ মনের যত পাগলপারা আশা
+> খুঁজে ফেরে তোমার চোখে নীরব ভালোবাসা
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
