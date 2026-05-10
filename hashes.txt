@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ferari Somoy
+
+This log tracks the cryptographic history and versioning for the song **Ferari Somoy** (ferari-somoy).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T08:41:54.971174 | `v1` | `e40892424c51814035f88b248bb725d00ed80fa3e9b783a9a0f1a282d4bb61b0` | `3f60432ecf8b61d905dfb6711e830b74399cbab4b8ae6a48c47415bf1f2ac4db` | `2026-05-10_ferari-somoy-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

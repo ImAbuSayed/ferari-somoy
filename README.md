@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ferari-somoy/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Ferari Somoy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ferari-somoy/) |
+| **Get License** | [Official Music Licensing for Ferari Somoy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ferari-somoy/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e40892424c51814035f88b248bb725d00ed80fa3e9b783a9a0f1a282d4bb61b0` |
 | **Timestamp** | May 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
